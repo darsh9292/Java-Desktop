@@ -1,0 +1,2 @@
+java Magnifier
+pause
